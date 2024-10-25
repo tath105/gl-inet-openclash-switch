@@ -77,7 +77,7 @@ show_reboot_tips() {
 install_switch() {
 	gl_name=$(get_router_name)
 	case "$gl_name" in
-		*3000*)
+		*1800*)
 			;;
 		*)
 			echo "*      当前的路由器型号: "$gl_name | sed 's/ like iStoreOS//'
