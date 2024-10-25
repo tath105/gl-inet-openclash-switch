@@ -1,3 +1,5 @@
+FORKED FROM https://github.com/parentalclash/gl-inet-mt3000-openclash-switch, to test whether it can be used for AXT1800. Nothing (other than code) is edited.
+
 # gl-inet-mt3000-openclash-switch
 
 ## 🤔 这是什么？
