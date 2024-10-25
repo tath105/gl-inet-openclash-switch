@@ -12,7 +12,7 @@ FORKED FROM https://github.com/parentalclash/gl-inet-mt3000-openclash-switch, to
 ### 1. SSH连接到路由器,或者在路由器终端执行如下命令
 
 ```bash
-wget -O gl-inet-mt3000-openclash-switch-install.sh https://github.com/parentalclash/gl-inet-mt3000-openclash-switch/releases/download/1.0/gl-inet-mt3000-openclash-switch-install.sh && chmod +x gl-inet-mt3000-openclash-switch-install.sh && ./gl-inet-mt3000-openclash-switch-install.sh
+wget -O gl-inet-mt3000-openclash-switch-install.sh https://github.com/tath105/gl-inet-openclash-switch/releases/download/1.0/gl-inet-mt3000-openclash-switch-install.sh && chmod +x gl-inet-mt3000-openclash-switch-install.sh && ./gl-inet-mt3000-openclash-switch-install.sh
 ```
 
 ### 下次如何调用,在当前目录下执行
